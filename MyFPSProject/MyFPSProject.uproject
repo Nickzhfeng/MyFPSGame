@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0EFA8B54-4621-BF54-9E60-42B18B79E844}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyFPSProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
