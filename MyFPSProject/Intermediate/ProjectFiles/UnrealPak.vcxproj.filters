@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\ue4.27\UnrealEngine-4.27\Engine\Source\Programs\UnrealPak\UnrealPak.Target.cs" />
+    <None Include="..\..\..\..\..\..\ue4.27\UnrealEngine-4.27\Engine\Source\Programs\UnrealPak\UnrealPak.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{3C29B751-DC50-4667-BE0F-E9C28AEF9E54}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\ue4.27\UnrealEngine-4.27\Engine\Source\Programs\UnrealPak\Private\UnrealPak.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\ue4.27\UnrealEngine-4.27\Engine\Source\Programs\UnrealPak\Private\UnrealPak.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

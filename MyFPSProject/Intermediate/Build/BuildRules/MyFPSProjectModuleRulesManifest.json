@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\ue4porj\\FPSPorj\\MyFPSGame\\MyFPSProject\\Source\\MyFPSProject\\MyFPSProject.Build.cs",
+		"D:\\ue4porj\\FPSPorj\\MyFPSGame\\MyFPSProject\\Source\\MyFPSProject.Target.cs",
+		"D:\\ue4porj\\FPSPorj\\MyFPSGame\\MyFPSProject\\Source\\MyFPSProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
